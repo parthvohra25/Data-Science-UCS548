@@ -1,0 +1,1 @@
+print(runif(8, min=1, max=1000))
