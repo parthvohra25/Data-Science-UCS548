@@ -1,2 +1,2 @@
 # Data-Science-UCS548-
-Course Codes
+Here are all the soltuions to the given assignments with their respective .R and .pdf files
